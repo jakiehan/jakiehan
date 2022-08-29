@@ -1,0 +1,7 @@
+# Optional REPL history
+.DS_Store
+.idea
+.vscode
+
+# log
+*.log
