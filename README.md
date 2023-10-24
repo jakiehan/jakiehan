@@ -1,20 +1,20 @@
 ### Привет 👋
 <hr />
-Я начинающий frontend разработчик. Окончил обучение в Я.Практикуме по направлению веб-разработчик. Продолжаю углублять знания и изучать новые технологии 🥰  
+Я младший frontend разработчик в компании iBS. Продолжаю углублять знания и изучать новые технологии 🥰  
 <hr />
 <h3>🛠 Мой стэк сегодня:</h3>
 <p align="center">
-<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React logo" title="React" height="45" width="55"></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="JavaScript" height="45" width="55"></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="git logo" title="git" height="45" width="55"></a>
+<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React logo" title="React" height="45" width="55"></a>
 <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux logo" title="Redux" height="45" width="55"></a>
 <a href="https://styled-components.com/"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled-Components logo" title="Styled-Components" height="45" width="45"></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="45" width="55"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" title="CSS3" height="45" width="55"></a>
 <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs logo" title="nodejs" height="45" width="55"></a>
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express logo" title="express" height="45" width="55"></a>
-<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" title="mongodb" height="45" width="55"></a>
 <a href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" alt="webpack logo" title="webpack" height="45" width="55"></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git logo" title="git" height="45" width="55"></a>
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" title="mongodb" height="45" width="55"></a>
 </p>
 <hr />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" />  
@@ -27,8 +27,8 @@
 ### 📚 Уже изучаю:
 - Redux ✅
 - Styled Components ✅
-- Redux Toolkit
-- TypeScript
+- Redux ✅
+- TypeScript ✅
 - NextJS
 <br>
 <hr />
